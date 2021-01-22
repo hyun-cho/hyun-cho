@@ -5,17 +5,14 @@
   </a>
 </div>
 
+<div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyun-cho&show_icons=true&theme=dracula" />
 </a>
+</div> 
+
+<div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-cho&layout=compact" />
 </a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyun-cho&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyun-cho&repo=convoychat" />
-</a>
+</div>
