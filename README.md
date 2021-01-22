@@ -16,6 +16,6 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-cho&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-cho&layout=compact&show_icons=true&theme=dracula" />
   </a>
 </div>
